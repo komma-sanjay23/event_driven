@@ -1,0 +1,8 @@
+# Ignore Terraform state and provider binaries
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.zip
+*.exe
+*.pyc
+__pycache__/
